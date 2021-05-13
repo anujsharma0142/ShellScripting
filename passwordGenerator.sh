@@ -3,7 +3,7 @@
 #Simple password generator
 
 
-echo "Actually its not a simple password generator but yeah its is strong password gen"
+echo "Actually its not a simple password generator but yeah It's strong password gen"
 
 echo "Please Enter the lenght of the password"
 
